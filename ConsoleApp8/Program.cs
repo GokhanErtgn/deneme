@@ -24,6 +24,13 @@ namespace ConsoleApp8
 
             //added by gokhan
             //added by ferhat
+            //added by gokhan
+            //added by gokhan
+            //added by gokhan
+            //added by gokhan
+            //added by gokhan
+            //added by gokhan
+            //added by gokhan
 
 
             printMatrix(matris);
