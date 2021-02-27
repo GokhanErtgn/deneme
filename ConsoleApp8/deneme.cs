@@ -11,6 +11,7 @@ namespace ConsoleApp8
         public deneme()
         {
             Console.WriteLine("Hello world!");
+            // added by ferhat
         }
     }
 }
