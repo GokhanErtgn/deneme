@@ -12,6 +12,7 @@ namespace ConsoleApp8
         {
             Console.WriteLine("Hello world!");
             // added by ferhat
+            // added by ferhat 2
         }
     }
 }
