@@ -25,7 +25,7 @@ namespace ConsoleApp8
             printMatrix(matris);
 
             int[] array1 = new int[] { 1, 0, 0, 0, 1, 0, 1 };
-            bos(array1);
+            MaksimumUzaklik(array1);
             var a = array1.Max();
             var b = array1.Min();
 
