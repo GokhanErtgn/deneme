@@ -22,6 +22,8 @@ namespace ConsoleApp8
 
             Rotate90(matris);
 
+
+
             printMatrix(matris);
 
             int[] array1 = new int[] { 1, 0, 0, 0, 1, 0, 1 };
