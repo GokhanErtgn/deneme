@@ -22,6 +22,7 @@ namespace ConsoleApp8
 
             Rotate90(matris);
 
+            //added by gokhan
 
 
             printMatrix(matris);
