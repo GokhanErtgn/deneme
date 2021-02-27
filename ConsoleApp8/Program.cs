@@ -181,7 +181,7 @@ namespace ConsoleApp8
 
             }
 
-            return toplam;
+            return toplam;  
         }
     }
 }
